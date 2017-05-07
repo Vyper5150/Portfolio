@@ -1,7 +1,3 @@
-##Team Bulletin Board  
-Our team was tasked to come up with an idea for a bulletin board. We decided on a Networking themed board with a guide on how to create your own Ethernet cable from CAT 6.  
-![Team Bulletin Board](https://raw.githubusercontent.com/Scrum-Lords/Portfolio/master/images/board.jpg "Team Bulletin Board")   
-
 # About Me
 I'm a soon to be junior at Mansfield University, majoring in CIS.
 This portfolio is a collection of my works from the 2017 semester of Buisness Programming Concepts 2.
